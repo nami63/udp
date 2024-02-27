@@ -4,7 +4,7 @@
 #include <ws2tcpip.h>
 
 #define PORT 12345
-#define REMOTE_IP "127.0.0.1"
+#define REMOTE_IP "255.255.255.255"
 
 #pragma comment(lib, "Ws2_32.lib")
 
